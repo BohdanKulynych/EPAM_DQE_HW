@@ -19,7 +19,7 @@ def open_file(filename):
 
 def text_processing(text):
     # function for separate words from text file
-    regex = r'[\w]+[^\s]+'
+    regex = r'[\w]+'
     result = re.findall(regex, text)
     return result
 
