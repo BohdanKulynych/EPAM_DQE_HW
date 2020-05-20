@@ -1,2 +1,2 @@
-# EPAM_DQE_HW1
-Solution of homework 1
+# EPAM_DQE_HW
+Solution of DQE lab homeworks
