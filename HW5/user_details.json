@@ -1,0 +1,82 @@
+[
+    {
+        "user_id": "1",
+        "username": "rogers63",
+        "first_name": "david",
+        "last_name": "john",
+        "gender": "Female",
+        "status": "1"
+    },
+    {
+        "user_id": "2",
+        "username": "mike28",
+        "first_name": "rogers",
+        "last_name": "paul",
+        "gender": "Male",
+        "status": "1"
+    },
+    {
+        "user_id": "3",
+        "username": "rivera92",
+        "first_name": "david",
+        "last_name": "john",
+        "gender": "Male",
+        "status": "1"
+    },
+    {
+        "user_id": "4",
+        "username": "ross95",
+        "first_name": "maria",
+        "last_name": "sanders",
+        "gender": "Male",
+        "status": "1"
+    },
+    {
+        "user_id": "5",
+        "username": "paul85",
+        "first_name": "morris",
+        "last_name": "miller",
+        "gender": "Female",
+        "status": "1"
+    },
+    {
+        "user_id": "6",
+        "username": "smith34",
+        "first_name": "daniel",
+        "last_name": "michael",
+        "gender": "Female",
+        "status": "1"
+    },
+    {
+        "user_id": "7",
+        "username": "james84",
+        "first_name": "sanders",
+        "last_name": "paul",
+        "gender": "Female",
+        "status": "1"
+    },
+    {
+        "user_id": "8",
+        "username": "daniel53",
+        "first_name": "mark",
+        "last_name": "mike",
+        "gender": "Male",
+        "status": "1"
+    },
+    {
+        "user_id": "9",
+        "username": "brooks80",
+        "first_name": "morgan",
+        "last_name": "maria",
+        "gender": "Female",
+        "status": "1"
+    },
+    {
+        "user_id": "10",
+        "username": "morgan65",
+        "first_name": "paul",
+        "last_name": "miller",
+        "gender": "Female",
+        "status": "1"
+    }
+]
