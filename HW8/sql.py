@@ -4,7 +4,7 @@ import csv
 import os
 
 # execute by     python sql.py -p 'BI'
-parser = argparse.ArgumentParser(description='Enter name of project after -w')
+parser = argparse.ArgumentParser(description='Enter name of project after -p')
 parser.add_argument('-p', '--project', nargs='+', type=str, help='Enter project name', required=True)
 args = parser.parse_args()
 
